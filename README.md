@@ -76,9 +76,9 @@ Below is a summary of the courses taken, organized by academic year. Statuses wi
 
 | Course | Name | Status | Final Grade (Points) |
 | :----- | :----- | :----- | :----- |
-| [**PHL-260**](docs/2025/01-PHL260.md) | Ethical Problem-Solving | Completed (Ends Oct 26) | **A (Projected 994/1000)** |
-| [**IDS-104**](docs/2025/02-IDS104.md) | Mindset & Growth for Learning | Upcoming (Starts Oct 27) | TBD |
-| [**MAT-142**](docs/2025/03-MAT142.md) | Precalculus with Limits | Upcoming (Starts Oct 27) | TBD |
+| [**PHL-260**](docs/2025/01-PHL260.md) | Ethical Problem-Solving | Completed | **A (994/1000)** |
+| [**IDS-104**](docs/2025/02-IDS104.md) | Mindset & Growth for Learning | Completed | **A (1000/1000)** |
+| [**MAT-142**](docs/2025/03-MAT142.md) | Precalculus with Limits | Completed | **A (983.53/1000)** |
 
 ### Year 2 (2026)
 
