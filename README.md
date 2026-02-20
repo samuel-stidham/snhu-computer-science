@@ -76,16 +76,20 @@ Below is a summary of the courses taken, organized by academic year. Statuses wi
 
 | Course | Name | Status | Final Grade (Points) |
 | :----- | :----- | :----- | :----- |
-| [**PHL-260**](docs/2025/01-PHL260.md) | Ethical Problem-Solving | Completed | **A (994/1000)** |
-| [**IDS-104**](docs/2025/02-IDS104.md) | Mindset & Growth for Learning | Completed | **A (1000/1000)** |
-| [**MAT-142**](docs/2025/03-MAT142.md) | Precalculus with Limits | Completed | **A (983.53/1000)** |
+| [**PHL-260**](docs/2025/01%20-%20PHL260.md) | Ethical Problem-Solving | Completed | **A (994/1000)** |
+| [**IDS-104**](docs/2025/02%20-%20IDS104.md) | Mindset & Growth for Learning | Completed | **A (1000/1000)** |
+| [**MAT-142**](docs/2025/03%20-%20MAT142.md) | Precalculus with Limits | Completed | **A (983.53/1000)** |
 
 ### Year 2 (2026)
 
 | Course | Name | Status | Final Grade (Points) |
 | :----- | :----- | :----- | :----- |
-| [**IT-140**](docs/2026/01-IT140.md) | Introduction to Scripting | Planned (Starts Jan 2026) | TBD |
-| [**MAT-225**](docs/2026/02-MAT225.md) | Calculus I: Single-Variable Calculus | Planned (Starts Jan 2026) | TBD |
+| [**IT-140**](docs/2026/04%20-%20IT140.md) | Introduction to Scripting | Nearing Completion | **A (1000/1000)** (Projected) |
+| [**MAT-225**](docs/2026/05%20-%20MAT225.md) | Calculus I: Single-Variable Calculus | Nearing Completion | **A (991.63/1000)** (Projected) |
+| [**IT-145**](docs/2026/06%20-%20IT145.md) | Found in App Development | Planned (Starts March 2026) | TBD |
+| [**MAT-275**](docs/2026/07%20-%20MAT275.md) | Calculus II: Integration & Series | Planned (Starts March 2026) | TBD |
+| [**CS-210**](docs/2026/08%20-%20CS210.md) | Programming Languages | Planned (Starts May 2026) | TBD |
+| [**PHY-150**](docs/2026/09%20-%20PHY150.md) | Intro Physics: Mechanics | Planned (Starts May 2026) | TBD |
 
 ## Key Skills & Core Concepts
 
@@ -100,7 +104,7 @@ Below is a summary of the courses taken, organized by academic year. Statuses wi
 
 ## Next Steps
 
-My immediate academic focus is on the upcoming term (beginning October 27th):
+My immediate academic focus is on the upcoming term (beginning March 2nd):
 
-1. **IDS-104: Mindset & Growth for Learning**
-2. **MAT-142: Precalculus with Limits**
+1. **IT-145: Found in App Development**
+2. **MAT-275: Calculus II: Integration & Series**
