@@ -10,6 +10,11 @@ The primary goal is to maintain a high-integrity record of my academic growth th
 
 * The `docs/` folder contains in-depth summaries for each course, detailing key concepts, projects, and personal reflections. **Note**: Files will only be added to this folder as courses are in progress or completed.
 
+## Emoji Key
+
+* ✅ = Complete
+* ⏳ = Upcoming or In Progress
+
 ## Degree Path Overview
 
 **Degree:** Bachelor of Science in Computer Science
@@ -28,7 +33,7 @@ The primary goal is to maintain a high-integrity record of my academic growth th
 ### Major Courses (Computer Science Core - 18 Courses)
 
 * **IT-140** – Introduction to Scripting ✅
-* **CS-210** – Programming Languages ⏳
+* **CS-210** – Programming Languages
 * **CS-300** – Data Structures and Algorithms
 * **CS-230** – Operating Platforms
 * **CS-250** – Software Development Lifecycle
@@ -41,7 +46,7 @@ The primary goal is to maintain a high-integrity record of my academic growth th
 * **CS-370** – Current and Emerging Trends in CS
 * **CS-465** – Full Stack Development I
 * **CS-499** – Computer Science Capstone
-* **IT-145** – Foundation in Application Development
+* **IT-145** – Foundation in Application Development ⏳
 * **MAT-350** – Applied Linear Algebra
 * **MAT-230** – Discrete Mathematics
 * **PHY-215** – Physics I
