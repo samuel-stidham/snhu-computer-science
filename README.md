@@ -86,7 +86,7 @@ Below is a summary of the courses taken, organized by academic year. Statuses wi
 | :----- | :----- | :----- | :----- |
 | [**IT-140**](docs/2026/04%20-%20IT140.md) | Introduction to Scripting | Nearing Completion | **A (1000/1000)** (Projected) |
 | [**MAT-225**](docs/2026/05%20-%20MAT225.md) | Calculus I: Single-Variable Calculus | Nearing Completion | **A (991.63/1000)** (Projected) |
-| [**IT-145**](docs/2026/06%20-%20IT145.md) | Found in App Development | Planned (Starts March 2026) | TBD |
+| [**IT-145**](docs/2026/06%20-%20IT145.md) | Foundation in Application Development | Planned (Starts March 2026) | TBD |
 | [**MAT-275**](docs/2026/07%20-%20MAT275.md) | Calculus II: Integration & Series | Planned (Starts March 2026) | TBD |
 | [**CS-210**](docs/2026/08%20-%20CS210.md) | Programming Languages | Planned (Starts May 2026) | TBD |
 | [**PHY-150**](docs/2026/09%20-%20PHY150.md) | Intro Physics: Mechanics | Planned (Starts May 2026) | TBD |
@@ -106,5 +106,5 @@ Below is a summary of the courses taken, organized by academic year. Statuses wi
 
 My immediate academic focus is on the upcoming term (beginning March 2nd):
 
-1. **IT-145: Found in App Development**
+1. **IT-145: Foundation in Application Development**
 2. **MAT-275: Calculus II: Integration & Series**

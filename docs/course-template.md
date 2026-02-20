@@ -31,11 +31,11 @@ This course focused on developing a core understanding of:
 
 The following major assignments demonstrate my application of the course material. (Note: Specific homework files are not included to maintain academic integrity.)
 
-1.  **Project Name/Purpose: [Example: Student Management System]**
+1. **Project Name/Purpose: [Example: Student Management System]**
     * **Focus:** [E.g., Demonstrating Object-Oriented Programming (OOP) principles like inheritance and polymorphism.]
     * **Technologies Used:** [E.g., Python, File I/O, Custom Classes.]
 
-2.  **Project Name/Purpose: [Example: Ethical Analysis Paper]**
+2. **Project Name/Purpose: [Example: Ethical Analysis Paper]**
     * **Focus:** [E.g., Applying Utilitarianism and Deontology to a modern AI scenario.]
     * **Deliverable:** [E.g., 8-page academic paper.]
 
