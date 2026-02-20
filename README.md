@@ -18,17 +18,17 @@ The primary goal is to maintain a high-integrity record of my academic growth th
 
 ### General Education Requirements (6 Courses)
 
-* **IDS-104** – Mindset & Growth for Learning
-* **PHL-260** – Ethical Problem-Solving
-* **MAT-142** – Precalculus with Limits
-* **MAT-225** – Calculus I: Single-Variable Calculus
+* **IDS-104** – Mindset & Growth for Learning ✅
+* **PHL-260** – Ethical Problem-Solving ✅
+* **MAT-142** – Precalculus with Limits ✅
+* **MAT-225** – Calculus I: Single-Variable Calculus ✅
 * **MAT-243** – Applied Statistics for STEM
 * **MAT-435** – Mathematical Modeling: Construction and Validation
 
 ### Major Courses (Computer Science Core - 18 Courses)
 
-* **IT-140** – Introduction to Scripting
-* **CS-210** – Programming Languages
+* **IT-140** – Introduction to Scripting ✅
+* **CS-210** – Programming Languages ⏳
 * **CS-300** – Data Structures and Algorithms
 * **CS-230** – Operating Platforms
 * **CS-250** – Software Development Lifecycle
@@ -55,7 +55,7 @@ The primary goal is to maintain a high-integrity record of my academic growth th
 
 ### Mathematics Minor (4 Courses)
 
-* **MAT-275** – Calculus II
+* **MAT-275** – Calculus II ⏳
 * **MAT-299** – Mathematical Proof and Problem Solving
 * **MAT-260** – Cryptology
 * **MAT-470** – Real Analysis
