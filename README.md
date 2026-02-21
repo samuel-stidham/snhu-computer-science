@@ -28,7 +28,7 @@ The primary goal is to maintain a high-integrity record of my academic growth th
 * **MAT-142** – Precalculus with Limits ✅
 * **MAT-225** – Calculus I: Single-Variable Calculus ✅
 * **MAT-243** – Applied Statistics for STEM
-* **MAT-435** – Mathematical Modeling: Construction and Validation
+* **IDS-410** – Problem Solving for Social Change
 
 ### Major Courses (Computer Science Core - 18 Courses)
 
