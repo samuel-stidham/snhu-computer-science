@@ -90,7 +90,7 @@ Below is a summary of the courses taken, organized by academic year. Statuses wi
 | Course | Name | Status | Final Grade (Points) |
 | :----- | :----- | :----- | :----- |
 | [**IT-140**](docs/2026/04%20-%20IT140.md) | Introduction to Scripting | Nearing Completion | **A (1000/1000)** (Projected) |
-| [**MAT-225**](docs/2026/05%20-%20MAT225.md) | Calculus I: Single-Variable Calculus | Nearing Completion | **A (991.63/1000)** (Projected) |
+| [**MAT-225**](docs/2026/05%20-%20MAT225.md) | Calculus I: Single-Variable Calculus | Nearing Completion | **A (989.77/1000)** |
 | [**IT-145**](docs/2026/06%20-%20IT145.md) | Foundation in Application Development | Planned (Starts March 2026) | TBD |
 | [**MAT-275**](docs/2026/07%20-%20MAT275.md) | Calculus II: Integration & Series | Planned (Starts March 2026) | TBD |
 | [**CS-210**](docs/2026/08%20-%20CS210.md) | Programming Languages | Planned (Starts May 2026) | TBD |
