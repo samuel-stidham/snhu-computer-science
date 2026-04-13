@@ -20,23 +20,28 @@ The primary goal is to maintain a high-integrity record of my academic growth th
 **Degree:** Bachelor of Science in Computer Science
 **Concentration:** Software Engineering
 **Minor:** Mathematics
+**Total Credits Required:** 120 (57 completed, 63 remaining)
 
-### General Education Requirements (6 Courses)
+### General Education Requirements
 
 * **IDS-104** – Mindset & Growth for Learning ✅
 * **PHL-260** – Ethical Problem-Solving ✅
 * **MAT-142** – Precalculus with Limits ✅
 * **MAT-225** – Calculus I: Single-Variable Calculus ✅
-* **MAT-243** – Applied Statistics for STEM
-* **IDS-410** – Problem Solving for Social Change
+* **MAT-243** – Applied Statistics for STEM *(still needed)*
+* Culmination Experience *(still needed)*
 
-### Major Courses (Computer Science Core - 18 Courses)
+### Major Courses (Computer Science Core)
 
 * **IT-140** – Introduction to Scripting ✅
-* **CS-210** – Programming Languages
-* **CS-300** – Data Structures and Algorithms
+* **IT-145** – Foundation in Application Development ⏳
+* **CS-210** – Programming Languages ⏳
+* **CS-250** – Software Development Lifecycle ⏳
+* **CS-300** – Data Structures and Algorithms ⏳
+* **DAD-220** – Intro to Structured Database Environments ⏳
+* **MAT-230** – Discrete Mathematics ⏳
+* **PHY-150** – Intro Physics: Mechanics ⏳
 * **CS-230** – Operating Platforms
-* **CS-250** – Software Development Lifecycle
 * **CS-255** – System Analysis and Design
 * **CS-305** – Software Security
 * **CS-320** – Software Testing, Automation, and QA
@@ -46,30 +51,25 @@ The primary goal is to maintain a high-integrity record of my academic growth th
 * **CS-370** – Current and Emerging Trends in CS
 * **CS-465** – Full Stack Development I
 * **CS-499** – Computer Science Capstone
-* **IT-145** – Foundation in Application Development ⏳
 * **MAT-350** – Applied Linear Algebra
-* **MAT-230** – Discrete Mathematics
-* **PHY-215** – Physics I
 
-### Software Engineering Concentration (4 Courses)
+### Software Engineering Concentration
 
 * **CS-319** – UI/UX Design and Development
 * **CS-350** – Emerging Systems Architectures & Technologies
 * **CS-405** – Secure Coding
 * **CS-410** – Software Reverse Engineering
 
-### Mathematics Minor (4 Courses)
+### Mathematics Minor (6 Courses)
 
-* **MAT-275** – Calculus II ⏳
+> Courses marked with † also satisfy General Education or Major requirements.
+
+* **MAT-225** – Calculus I: Single-Variable Calculus ✅ †
+* **MAT-275** – Calculus II: Integration & Series ✅
+* **MAT-142** – Precalculus with Limits ✅ † *(Mathematics Elective I)*
+* **MAT-230** – Discrete Mathematics ⏳ † *(Mathematics Elective II)*
 * **MAT-299** – Mathematical Proof and Problem Solving
-* **MAT-260** – Cryptology
-* **MAT-470** – Real Analysis
-
-### Free Electives (3 Courses)
-
-* **DAT-220** – Fundamentals of Data Mining
-* **DAT-325** – Data Validation: Quality and Cleaning
-* **CYB-260** – Legal and Human Factors of Cybersecurity
+* **MAT-470** – Real Analysis *(or MAT-415 Abstract Algebra)*
 
 ---
 
@@ -91,10 +91,14 @@ Below is a summary of the courses taken, organized by academic year. Statuses wi
 | :----- | :----- | :----- | :----- |
 | [**IT-140**](docs/2026/04%20-%20IT140.md) | Introduction to Scripting | Completed | **A (1000/1000)** |
 | [**MAT-225**](docs/2026/05%20-%20MAT225.md) | Calculus I: Single-Variable Calculus | Completed | **A (989.77/1000)** |
-| [**IT-145**](docs/2026/06%20-%20IT145.md) | Foundation in Application Development | In Progress | TBD |
-| [**MAT-275**](docs/2026/07%20-%20MAT275.md) | Calculus II: Integration & Series | In Progress | TBD |
-| [**CS-210**](docs/2026/08%20-%20CS210.md) | Programming Languages | Planned (Starts May 2026) | TBD |
-| [**PHY-150**](docs/2026/09%20-%20PHY150.md) | Intro Physics: Mechanics | Planned (Starts May 2026) | TBD |
+| [**IT-145**](docs/2026/06%20-%20IT145.md) | Foundation in Application Development | In Progress | **A (1000/1000)** |
+| [**MAT-275**](docs/2026/07%20-%20MAT275.md) | Calculus II: Integration & Series | In Progress | **A (996.3/1000) Projected** |
+| [**CS-210**](docs/2026/08%20-%20CS210.md) | Programming Languages | Planned (May 2026) | TBD |
+| [**PHY-150**](docs/2026/09%20-%20PHY150.md) | Intro Physics: Mechanics | Planned (May 2026) | TBD |
+| [**MAT-230**](docs/2026/10%20-%20MAT230.md) | Discrete Mathematics | Planned (Jun–Aug 2026) | TBD |
+| [**CS-250**](docs/2026/11%20-%20CS250.md) | Software Development Lifecycle | Planned (Jun–Aug 2026) | TBD |
+| [**CS-300**](docs/2026/12%20-%20CS300.md) | DSA: Analysis and Design | Planned (Aug–Oct 2026) | TBD |
+| [**DAD-220**](docs/2026/13%20-%20DAD220.md) | Intro to Structured Database Environments | Planned (Aug–Oct 2026) | TBD |
 
 ## Key Skills & Core Concepts
 
@@ -109,7 +113,8 @@ Below is a summary of the courses taken, organized by academic year. Statuses wi
 
 ## Next Steps
 
-My immediate academic focus is on the upcoming term (beginning March 2nd):
+My upcoming schedule through the end of 2026:
 
-1. **IT-145: Foundation in Application Development**
-2. **MAT-275: Calculus II: Integration & Series**
+1. **C-3 (May–Jun 2026):** CS-210 Programming Languages · PHY-150 Intro Physics: Mechanics
+2. **C-4 (Jun–Aug 2026):** MAT-230 Discrete Mathematics · CS-250 Software Development Lifecycle
+3. **C-5 (Aug–Oct 2026):** CS-300 DSA: Analysis and Design · DAD-220 Intro to Structured Database Environments
