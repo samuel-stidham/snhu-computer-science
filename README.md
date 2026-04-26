@@ -29,7 +29,7 @@ The primary goal is to maintain a high-integrity record of my academic growth th
 * **MAT-142** – Precalculus with Limits ✅
 * **MAT-225** – Calculus I: Single-Variable Calculus ✅
 * **MAT-243** – Applied Statistics for STEM *(still needed)*
-* Culmination Experience *(still needed)*
+* **IDS-410** – Problem Solving for Social Change *(still needed)*
 
 ### Major Courses (Computer Science Core)
 
@@ -64,12 +64,12 @@ The primary goal is to maintain a high-integrity record of my academic growth th
 
 > Courses marked with † also satisfy General Education or Major requirements.
 
-* **MAT-225** – Calculus I: Single-Variable Calculus ✅ †
-* **MAT-275** – Calculus II: Integration & Series ✅
 * **MAT-142** – Precalculus with Limits ✅ † *(Mathematics Elective I)*
+* **MAT-225** – Calculus I: Single-Variable Calculus ✅ †
 * **MAT-230** – Discrete Mathematics ⏳ † *(Mathematics Elective II)*
+* **MAT-275** – Calculus II: Integration & Series ✅
 * **MAT-299** – Mathematical Proof and Problem Solving
-* **MAT-470** – Real Analysis *(or MAT-415 Abstract Algebra)*
+* **MAT-415** – Abstract Algebra
 
 ---
 
