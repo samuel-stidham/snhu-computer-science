@@ -64,7 +64,7 @@ Back links in all course files use:
 
 ---
 
-## Current Degree Status (as of July 2026)
+## Current Degree Status (as of August 2026)
 
 | Field | Value |
 | --- | --- |
@@ -83,8 +83,8 @@ Back links in all course files use:
 | Term | Dates | Courses |
 | --- | --- | --- |
 | 2026 C-3 | May–Jun 2026 | CS-210, PHY-150 *(Completed)* |
-| 2026 C-4 | Jun–Aug 2026 | MAT-230, CS-250 *(In Progress)* |
-| 2026 C-5 | Aug–Oct 2026 | CS-300, DAD-220 |
+| 2026 C-4 | Jun–Aug 2026 | MAT-230, CS-250 *(Completed)* |
+| 2026 C-5 | Aug–Oct 2026 | CS-300, DAD-220 *(In Progress)* |
 | 2026 C-6 | Oct–Dec 2026 | CS-230, CS-305, MAT-350 |
 | 2027 C-1 | Jan–Feb 2027 | CS-255, MAT-299 |
 | 2027 C-2 | Mar–Apr 2027 | CS-320, MAT-415 |
